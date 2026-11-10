@@ -10,6 +10,16 @@
 
 ---
 
+## 📸 Telas
+
+| Combate | Exploração |
+| --- | --- |
+| ![Combate contra um esqueleto](tela-combate.png) | ![Corredor do castelo](tela-corredor.png) |
+| **Salão do castelo** | **Menu inicial** |
+| ![Salão do castelo](tela-salao.png) | ![Menu inicial](tela-menu.png) |
+| **Introdução** | **Fim de jogo** |
+| ![Tela de introdução com a história](tela-introducao.png) | ![Tela de fim de jogo](tela-fim-de-jogo.png) |
+
 ## 📖 História
 
 Há muito tempo, magos antigos ergueram um castelo para guardar magias capazes de destruir ou salvar o mundo. A fortaleza foi tomada por forças corrompidas. Agora um jovem mago precisa atravessar o castelo labiríntico, enfrentar suas criaturas e chegar à batalha final contra o Arquimago Supremo.
